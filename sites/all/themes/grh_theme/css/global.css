@@ -1,0 +1,50 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+
+body {
+    background: none repeat scroll 0 0 #41511D;
+
+    }
+
+#zone-branding {
+	 background-color: #4D6B36;
+	}
+#zone-menu, #zone-content {
+	background-color: #FFFFFF;
+
+
+}  
+#main-menu ul li {
+    background: none repeat scroll 0 0 green;
+    border-left: 1px solid #FFFFFF;
+    height: 41px;
+    padding-top: 12px;
+    text-align: center;
+}
+#main-menu ul li.last {
+    border-right: 1px solid #FFFFFF;
+}
+#main-menu ul.inline li.menu-504 {
+    background-color: #35758B;
+}
+#main-menu ul.inline  li.menu-506 {
+    background-color: #B48C35;
+}
+#main-menu ul li.menu-233 {
+    background-color: #A12C2C;
+}
+#main-menu ul li.menu-505 {
+    background-color: #657A47;
+}
+#main-menu ul li.menu-507 {
+    background-color: #56737A;
+}
+#main-menu ul li a {
+    color: #FFFFFF;
+    font-size: 120%;
+    text-decoration: none;
+}
+#main-menu ul li a:hover {
+    text-decoration: underline;
+} 
+

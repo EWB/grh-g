@@ -1,0 +1,21 @@
+#zone-top,
+#zone-branding,
+#zone-menu,
+#zone-header,
+#zone-preface,
+#zone-content,
+#zone-postscript,
+#zone-footer {
+  width: 940px !important;
+}
+
+.container-12,
+.container-24 {
+  width: 940px !important;
+}
+
+.quicktabs-wrapper .view-events-calendar-front-tabs .event-body-wrapper {
+	height: 380px;
+}
+
+@media \0screen {img { width: auto }} /* Prevent height distortion in IE8. */

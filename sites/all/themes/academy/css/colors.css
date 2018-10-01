@@ -1,0 +1,380 @@
+/* Site background color */
+body { 
+  background-color: #fffffe; /* background color */
+  color: #111111; /* default text color */
+}
+
+a, a:link, a:visited,
+li a.active {
+  color: #980002; /* Link color */
+  transition: color .3s;
+  -moz-transition: color .3s; /* Firefox 4 */
+  -webkit-transition: color .3s; /* Safari and Chrome */
+  -o-transition: color .3s; /* Opera */
+}
+
+blockquote {
+  border-left-color: #980000; /* BASE color */
+}
+
+div.pullquote-left,
+div.pullquote-right {
+	background-color: #980000; /* BASE color */
+}
+
+div.pullquote-left p,
+div.pullquote-right p {
+	color: #fffffe; /* background color */
+}
+
+p.dropcap:first-letter, span.dropcap:first-letter {
+  background-color: #980000; /* BASE color */
+  color: #fffffe; /* background color */
+}
+
+a div.caption.none p { 
+  color: #111111; /* default text color */
+}
+
+body.not-front img {
+  border-color: #c8c6c6; /* Secondary color */
+}
+
+.resp-video iframe,
+.resp-video object,
+.resp-video embed {
+  border-color: #c8c6c6; /* Secondary color */
+}
+
+/* Allows for color change of links for modern browsers */
+
+a:hover {
+  color: #c8c6c6; /* Secondary color */
+}
+
+/* TOP ZONE */
+
+div#zone-top-wrapper {
+	background-color: #eeeeee; /* top zone bg */
+	border-bottom-color: #c8c6c6; /* secondary color */
+	color: #111111; /* default color text */
+}
+
+#zone-header {
+  
+}
+
+div#zone-content.zone article.node {
+	border-bottom-color: #c8c6c6; /* Secondary */
+}
+
+div#zone-footer-wrapper.zone-wrapper {
+	border-top-color: #c8c6c6; /* secondary color */
+}
+ 
+footer#section-footer.section p ,
+footer#section-footer.section span, 
+footer#section-footer.section li, 
+footer#section-footer.section p span, 
+footer#section-footer.section div {
+  color: #444443; /* Footer text color */
+  background: #e4e3e2; /* Footer bg color */
+}
+
+div#zone-postscript.zone div.region-inner div.block-inner h2 {
+  color: #444443; /* Footer text color */
+}
+
+div#zone-postscript-wrapper.zone-wrapper {
+  
+}
+
+div#region-footer-second div.region-inner {
+  border-top-color: #c8c6c6; /* Secondary color */
+}
+
+aside#region-sidebar-second {
+  border-top-color: #c8c6c6; /* Secondary color */
+}
+
+ul.menu li,
+ul.featured-content-block-content li {
+  border-bottom-color: #c8c6c6; /* Secondary color */
+}
+
+body.not-front #section-header div#zone-nav.zone {
+	border-bottom-color: #111112; /* Title color */
+}
+
+ul#superfish-1.sf-style-default li { 
+  border-bottom-color: transparent;
+  -moz-transition: all .3s; /* Firefox 4 */
+  -webkit-transition: all .3s; /* Safari and Chrome */
+  -o-transition: all .3s; /* Opera */
+  transition: all .3s;
+}
+
+ul#superfish-1.sf-style-default li:hover { 
+  border-bottom-color: #980000; /* BASE color */
+}
+
+ul#superfish-1 li a { 
+  color: #111112; /* Title color */
+  -moz-transition: all .3s; /* Firefox 4 */
+  -webkit-transition: all .3s; /* Safari and Chrome */
+  -o-transition: all .3s; /* Opera */
+  transition: all .3s;
+}
+
+ul#superfish-1 li a:hover {
+  color: #980000; /* BASE color */
+}
+
+ul#superfish-1.sf-style-default li ul li {
+  border-bottom-color: #c8c6c6; /* Secondary color */
+  border-right-color: #c8c6c6; /* Secondary color */
+  border-left-color: #c8c6c6; /* Secondary color */
+  background-color: #fffffe; /* background color */
+	-moz-transition: all .3s; /* Firefox 4 */
+  -webkit-transition: all .3s; /* Safari and Chrome */
+  -o-transition: all .3s; /* Opera */
+  transition: all .3s;
+}
+
+ul#superfish-1.sf-style-default li ul li:hover { 
+  background-color: #980000; /* BASE color */
+}
+
+ul#superfish-1.sf-style-default li ul li.first {
+  border-top-color: #c8c6c6; /* Secondary color */
+}
+
+ul#superfish-1.sf-style-default li ul li a:hover {
+  color: #fffffe; /* background color */
+}
+
+ul#superfish-1.sf-style-default li ul {
+  border-left-color: #c8c6c6; /* Secondary color */
+}
+
+div#block-delta-blocks-page-title.block {
+  border-bottom-color: #c8c6c6; /* Secondary color */
+}
+
+hgroup h2.site-name, hgroup h2.site-name a, 
+hgroup h1.site-name, h1.site-name a, 
+hgroup .site-slogan, .main-menu li a, 
+hgroup .site-name a:hover, hgroup .site-name a,
+.sf-menu.sf-style-default a, .sf-menu.sf-style-default a:visited,
+h1, h2, .sidebar h2.block-title,
+.node h2.node-title,
+.block h2.block-title,
+.region-content h1,
+h2.title, h2.post-title, h2.post-title a, h3, h4, h5, h6, h1 a, h2 a, h2 a:link, h2 a:visited, h3 a:link, h3 a:visited, 
+h4 a, h4 a:link, h4 a:visited, h5 a, h5 a:link, h5 a:visited, h6 a:visited, h6 a, h6 a:link,
+div.blog-view-right h2 a {
+ color: #111112; /* Title color */
+}
+
+div.region-inner section#block-system-main-menu.block div.block-inner {
+	background-color: #eeeeee; /* top zone bg */
+	border-color: #c8c6c6; /* secondary color */
+}  
+
+
+
+#zone-postscript {
+  border-top-color: #c8c6c6; /* secondary color */
+}
+
+.separator-line {
+  border-color: #c8c6c6; /* secondary color */
+}
+
+div#twitter_block_results.twitter_block div.item-list ul li {
+  border-bottom-color: #c8c6c6; /* Secondary color */
+}
+
+div#twitter_block_results.twitter_block div.item-list ul li.last {
+  border-bottom-color: transparent;
+}
+
+ul.pager {
+	border-top-color: #c8c6c6; /* Secondary color */
+	border-bottom-color: #c8c6c6; /* Secondary color */
+}
+
+.pager li.pager-current {
+  background: none;
+  background-color: #c8c6c6; /* Secondary color */
+  border-color: #c8c6c6; /* Secondary color */
+  color: #111111; /* default text color */
+}
+
+.pager li a {
+  background: none;
+  color: #111111; /* default text color */
+}
+
+.pager li a:hover {
+  background: none;
+  color: #eeeeee; /* tertiary color */
+}
+
+/* comment colors */
+
+#block-commentsblock-comment-form-block.block,
+section#block-views-about-the-author-block.block, 
+section#block-featured-content-1.block {
+	border-top-color: #c8c6c6; /* Secondary color */
+}
+
+#block-commentsblock-comment-form-block.block div.block-inner div.content div#comments.comment-wrapper div.comment {
+  background-color: #fffffe; /* background color */
+  border-left-color: #980000; /* BASE color */
+}
+
+/* form colors */
+
+fieldset {
+  border-color: #c8c6c6; /* Secondary color */
+}
+
+input[type='text'], textarea, select,
+input[type="date"], input[type="email"], input[type="password"], input[type="search"], input[type="tel"] {
+  border-color: #c8c6c6; /* Secondary color */
+}
+
+div.form-item label span.form-required {
+  color: #980000; /* BASE color */
+}
+
+button, input[type="reset"], input[type="submit"], input[type="button"] {
+  color: #111111; /* default text color */
+}
+
+/* front tab colors */
+
+.quicktabs_main {
+	border-color: #c8c6c6; /* Secondary color */
+}
+
+ul.quicktabs-tabs li {
+	background-color: #c8c6c6; /* Secondary color */
+}
+
+ul.quicktabs-tabs li.active {
+	background-color: #111111;
+}
+
+.quicktabs-wrapper .item-list ul li.active a {
+	color: #fffffe; /* background color */
+}
+
+.quicktabs-wrapper .item-list ul li a {
+	color: #111111;
+}
+
+/* quicktabs calendar colors */
+
+.quicktabs-wrapper .view-events-calendar-front-tabs div.grid-item div.views-field-nothing div.front-events-calendar,
+body.context-events div.events-month {
+	background-color: #c8c6c6; /* Secondary color */
+}
+
+.quicktabs-wrapper .view-events-calendar-front-tabs div.views-field-nothing div.front-events-calendar div.events-day span.date-display-single,
+body.context-events div.events-day {
+	background-color: #111111;
+	color: #fffffe; /* background color */
+}
+
+.quicktabs-wrapper .view-events-calendar-front-tabs .grid-4 div.gridCol {
+	background-color: #eeeeee; /* tertiary */
+	border-bottom-color: #c8c6c6; /* Secondary color */
+}
+
+
+/* slider colors */
+
+#flexslider_views_slideshow_front_features_version_2-block.flexslider-views-slideshow-main-frame li.flexslider-views-slideshow-main-frame-row div div.slider div.slider-text-background p,
+#flexslider_views_slideshow_front_features_version_2-block.flexslider-views-slideshow-main-frame div.slider-text div,
+#flexslider_views_slideshow_front_features_version_2-block.flexslider-views-slideshow-main-frame div.slider-text span,
+#flexslider_views_slideshow_front_features_version_2-block.flexslider-views-slideshow-main-frame div.slider-text-background h3 {
+  color: #ffffff; /* slider text */
+}
+
+.slider,
+#flexslider_views_slideshow_front_features_version_2-block {
+  background-color: #980001; /* slider text background color */
+}
+
+#flexslider_views_slideshow_front_features_version_2-block.flexslider-views-slideshow-main-frame li.flexslider-views-slideshow-main-frame-row div div.slider div.slider-image a:hover {
+	color: #980001; /* slider text background color */
+}
+
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-image img {
+  background-color: #980001; /* slider text background color */
+	border-color: #111111; /* text color */
+}
+
+#views_slideshow_controls_text_front_features_version_2-block {
+	background-color: #111111; /* default color text */
+}
+
+p.front-feature-link a,
+p.continue-reading a {
+	background-color: #111111; /* text color */
+	color: #ffffff; /* slider text */
+	-moz-transition: all .3s; /* Firefox 4 */
+  -webkit-transition: all .3s; /* Safari and Chrome */
+  -o-transition: all .3s; /* Opera */
+  transition: all .3s;
+}
+
+p.front-feature-link a:hover,
+p.continue-reading a:hover {
+	background-color: #c8c6c6; /* Secondary color */
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, div.blog-view-right h2 a:hover {
+  color: #c8c6c6; /* Secondary color */
+}
+
+.breadcrumb-separator {
+  color: #c8c6c6; /* Secondary color */
+}
+
+/* views */
+
+div.view-content div.views-row {
+  border-bottom-color: #c8c6c6; /* Secondary color */
+}
+
+div.view-content div.views-row-last {
+  border-bottom-color: transparent;
+}
+
+/* Hide color module 'Preview' title */
+
+.color-form h2 {
+  display: none !important;
+}
+
+/* Make labels on settings form wider */
+
+.color-form label {
+  width: 300px !important;
+}
+
+@media all and (max-width: 500px) {
+
+ul#superfish-1.sf-style-default li a,
+ul#superfish-1 li a.active, ul#superfish-1 li a:hover {
+  border-color: #c8c6c6; /* Secondary color */
+}
+
+ul#superfish-1 li a.active, ul#superfish-1 li a:hover {
+  background-color: #c8c6c6; /* Secondary color */
+}
+
+}

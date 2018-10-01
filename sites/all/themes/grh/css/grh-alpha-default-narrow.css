@@ -1,0 +1,148 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the normal and widescreen layouts. You may override these styles in the normal 
+ *  and widescreen CSS files as appropriate. */
+
+ div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background {
+  padding: 5px 15px;
+}
+
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background h3 {
+  font-size: 20px;
+	margin-bottom: 0;
+}
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background p {
+	font-size: 13px;
+}
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background {
+  height: 300px;
+}
+
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background {
+  height: 240px;
+}
+
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background h3 {
+  font-size: 23px;
+}
+
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background {
+  float: right;
+	height: 100%;
+  padding: 40px 2%;
+  position: relative; 
+	width: 31.5%;
+  z-index: 2;
+}
+
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-text-background {
+    clear: none;
+    float: left;
+
+}
+div#flexslider_views_slideshow_main_front_features_version_2-block div.slider-image {
+    position: relative;
+    width: 64%;
+}
+
+
+ul#superfish-1.sf-style-default li {
+  border-left: 1px solid;
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 150%;
+}
+
+ul#superfish-1.sf-style-default li a {
+  display: block;
+  padding: 5px 30px;
+}
+ul#superfish-1.sf-style-default li {
+  font-size: 14px;
+}
+
+ul#superfish-1.sf-style-default li a {
+	display: block;
+	padding: 5px 10px;
+}
+
+.sf-menu.sf-style-default li, .sf-menu.sf-style-default.sf-navbar {
+    background: none;
+}
+.sf-menu.sf-style-default li:hover, .sf-menu.sf-style-default li.sfHover, .sf-menu.sf-style-default a:focus, .sf-menu.sf-style-default a:hover, .sf-menu.sf-style-default a:active {
+    background: none;
+    outline: 0 none;
+    color: #red;
+}
+
+.sf-menu.sf-style-default a:link, .sf-menu.sf-style-default a:visited {
+    border-top: 0px;
+    color:#00436F;
+    }
+.sf-menu.sf-style-default span.sf-description {
+    color:#00436F;
+    }    
+
+.sf-menu.sf-style-default span.sf-description {
+	font-size: 11px;
+}
+
+
+#block-superfish-1  {
+	display: block;
+
+}
+#block-superfish-2  {
+	display: none;
+}
+
+/* sidebar */
+
+aside#region-sidebar-second {
+  padding-top: 15px;
+}
+
+aside#region-sidebar-second section.block,
+aside#region-sidebar-first section.block,
+aside#region-sidebar-second div.block,
+aside#region-sidebar-first div.block {
+  border-bottom: 3px solid;
+  border-top: 3px solid;
+  margin-bottom: 50px;
+}
+
+aside#region-sidebar-second section.block div.block-inner,
+aside#region-sidebar-first section.block div.block-inner,
+aside#region-sidebar-second div.block div.block-inner,
+aside#region-sidebar-first div.block div.block-inner {
+  padding: 5px 15px 30px 15px;
+}
+
+aside#region-sidebar-second {
+  float: right;
+  margin-right: 0;
+}
+
+#region-sidebar-second div.region-inner div.block-inner ul li,
+#region-sidebar-first div.region-inner div.block-inner ul li {
+  list-style: none;
+}
+
+#region-sidebar-second div.region-inner div.block-inner ul li:before,
+#region-sidebar-first div.region-inner div.block-inner ul li:before  { 
+  content:"»"; 
+  left:-5px;
+  position:relative; 
+}
+
+.page-node aside#region-sidebar-second section.block, .page-node aside#region-sidebar-first section.block, .page-node aside#region-sidebar-second div.block, .page-node aside#region-sidebar-first div.block {
+    background-color: #FFFFFF;
+    border-bottom-color: #C8C6C6;
+    border-top-color: #C8C6C6;
+}
+
+#block-boxes-board-members ul{
+    padding-left:4px;
+
+}
+

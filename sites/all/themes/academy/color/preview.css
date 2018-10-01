@@ -1,0 +1,110 @@
+/* ---------- Color form ----------- */
+#color_scheme_form #palette .form-item {
+  width: 28em;
+}
+#color_scheme_form #palette .form-item label {
+  width: 20em;
+}
+ 
+/* ---------- Preview Styles ----------- */
+ 
+html.js #preview {
+  clear: both;
+  float: none !important;
+}
+ 
+/* Overall */
+
+#pre-header {
+	border-bottom: 2px solid;
+	height: 40px;
+}
+
+#preview {
+	border: 1px solid #ccc; 
+  font: 300 14px/1 serif;
+  margin: 0 0 40px 0;
+  padding: 0;
+  width: 100%;
+}
+ 
+/* Header */
+#preview-header {
+  overflow: hidden;
+  padding: 0 15px;
+}
+
+#preview-header h1 {
+  float: left;
+}
+
+div#menu ul li {
+	display: inline-block;
+	font-size: 20px;
+	list-style: none;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+#slider {
+  background-image: url('color-module-image-preview.jpg');
+  background-repeat: none;
+  border-bottom: 25px solid;
+  height: 210px;
+}
+
+#slider-text {
+  padding: 10px;
+  height: 190px;
+  float: right;
+  width: 200px;
+}
+
+#preview-content {
+  float: left;
+	padding: 15px;
+  position: relative;
+  width: 60%;
+}
+
+#secondary-color {
+	border-bottom: 2px solid;
+	border-top: 2px solid;
+  float: right;
+  margin-top: 30px;
+  margin-left: 2%;
+  padding: 0 4%;
+  position: relative;
+  width: 20%;
+}
+
+#preview-footer {
+	border-top: 2px solid;
+	margin-top: 20px;
+  padding: 15px;
+}
+
+#preview-main-menu ul {
+  margin: 0;
+}
+
+blockquote {
+	padding: 10px !important;
+}
+
+
+#preview-main-menu ul li a {
+  padding: 0.5em 1em;
+}
+ 
+/* Main content */
+
+#preview h1,
+#preview h2 {
+  clear: both;
+  font-weight: 300;
+  line-height: 1.6em;
+}
+#preview h1 {
+  font-size: 2.5em;
+}

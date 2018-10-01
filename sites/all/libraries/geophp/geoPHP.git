@@ -1,0 +1,1108 @@
+  
+
+
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>phayes/geoPHP · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144.png" />
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+
+    
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="aUERDFrLosyp4+n+CJXneyHWmrlvFB0FvH5dLBkqeXg=" name="csrf-token" />
+
+    <link href="https://a248.e.akamai.net/assets.github.com/assets/github-dd95960936fd09bc718d54eac1f1683ed3376505.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="https://a248.e.akamai.net/assets.github.com/assets/github2-69752b2a6bc9496df24286132ccbb217ec68581d.css" media="screen" rel="stylesheet" type="text/css" />
+    
+
+
+    <script src="https://a248.e.akamai.net/assets.github.com/assets/frameworks-57542e0cba19d068168099f287c117efa142863c.js" type="text/javascript"></script>
+    <script src="https://a248.e.akamai.net/assets.github.com/assets/github-5bfb1fded079215932e95f14a02a5b8aeccd9ef7.js" type="text/javascript"></script>
+    
+
+      <link rel='permalink' href='/phayes/geoPHP/tree/bc9a8b752229d7279e2a806a72457eea8f2d790b'>
+    <meta property="og:title" content="geoPHP"/>
+    <meta property="og:type" content="githubog:gitrepository"/>
+    <meta property="og:url" content="https://github.com/phayes/geoPHP"/>
+    <meta property="og:image" content="https://secure.gravatar.com/avatar/dbfe76613f45e29cc96c5a36a58b9cf0?s=420&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+    <meta property="og:site_name" content="GitHub"/>
+    <meta property="og:description" content="Advanced geometry operations in PHP. Contribute to geoPHP development by creating an account on GitHub."/>
+
+    <meta name="description" content="Advanced geometry operations in PHP. Contribute to geoPHP development by creating an account on GitHub." />
+
+  <link href="https://github.com/phayes/geoPHP/commits/master.atom" rel="alternate" title="Recent Commits to geoPHP:master" type="application/atom+xml" />
+
+  </head>
+
+
+  <body class="logged_out   vis-public env-production ">
+    <div id="wrapper">
+
+      
+
+      
+
+      
+
+
+        <div class="header header-logged-out">
+          <div class="container clearfix">
+
+            <a class="header-logo-wordmark" href="https://github.com/">
+              <img alt="GitHub" class="github-logo-4x" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x.png?1340659511" />
+              <img alt="GitHub" class="github-logo-4x-hover" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x-hover.png?1340659511" />
+            </a>
+
+              
+<ul class="top-nav">
+    <li class="explore"><a href="https://github.com/explore">Explore GitHub</a></li>
+  <li class="search"><a href="https://github.com/search">Search</a></li>
+  <li class="features"><a href="https://github.com/features">Features</a></li>
+    <li class="blog"><a href="https://github.com/blog">Blog</a></li>
+</ul>
+
+
+            <div class="header-actions">
+                <a class="button primary classy" href="https://github.com/signup">Sign up for free</a>
+              <a class="button classy" href="https://github.com/login?return_to=%2Fphayes%2FgeoPHP">Sign in</a>
+            </div>
+
+          </div>
+        </div>
+
+
+      
+
+      
+
+
+            <div class="site hfeed" itemscope itemtype="http://schema.org/WebPage">
+      <div class="hentry">
+        
+        <div class="pagehead repohead instapaper_ignore readability-menu">
+          <div class="container">
+            <div class="title-actions-bar">
+              
+
+
+                  <ul class="pagehead-actions">
+
+
+          <li>
+            <span class="star-button"><a href="/login?return_to=%2Fphayes%2FgeoPHP" class="minibutton js-toggler-target entice tooltipped leftwards" title="You must be signed in to use this feature" rel="nofollow"><span class="mini-icon mini-icon-star"></span>Star</a><a class="social-count js-social-count" href="/phayes/geoPHP/stargazers">120</a></span>
+          </li>
+          <li>
+            <a href="/login?return_to=%2Fphayes%2FgeoPHP" class="minibutton js-toggler-target fork-button entice tooltipped leftwards"  title="You must be signed in to fork a repository" rel="nofollow"><span class="mini-icon mini-icon-fork"></span>Fork</a><a href="/phayes/geoPHP/network" class="social-count">32</a>
+          </li>
+    </ul>
+
+              <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+                <span class="repo-label"><span>public</span></span>
+                <span class="mega-icon mega-icon-public-repo"></span>
+                <span class="author vcard">
+                  <a href="/phayes" class="url fn" itemprop="url" rel="author">
+                  <span itemprop="title">phayes</span>
+                  </a></span> /
+                <strong><a href="/phayes/geoPHP" class="js-current-repository">geoPHP</a></strong>
+              </h1>
+            </div>
+
+            
+
+  <ul class="tabs">
+    <li><a href="/phayes/geoPHP" class="selected" highlight="repo_sourcerepo_downloadsrepo_commitsrepo_tagsrepo_branches">Code</a></li>
+    <li><a href="/phayes/geoPHP/network" highlight="repo_network">Network</a></li>
+    <li><a href="/phayes/geoPHP/pulls" highlight="repo_pulls">Pull Requests <span class='counter'>4</span></a></li>
+
+      <li><a href="/phayes/geoPHP/issues" highlight="repo_issues">Issues <span class='counter'>15</span></a></li>
+
+      <li><a href="/phayes/geoPHP/wiki" highlight="repo_wiki">Wiki</a></li>
+
+
+    <li><a href="/phayes/geoPHP/graphs" highlight="repo_graphsrepo_contributors">Graphs</a></li>
+
+
+  </ul>
+  
+  <div id="repo_details" class="metabox clearfix
+       ">
+      <div id="repo_details_loader" class="metabox-loader" style="display:none">Sending Request&hellip;</div>
+
+        <div class="repo-desc-homepage">
+          
+    <div class="repository-lang-stats">
+      <div class="repository-lang-stats-graph">
+      <span class="language-color" style="width:100%; background-color:#6e03c1;" itemprop="keywords">PHP</span>
+      </div>
+      <ol class="list-tip">
+        <li>
+            <a href="/languages/PHP">
+              <span class="color-block language-color" style="background-color:#6e03c1;"></span>
+              <span class="lang">PHP</span>
+              <span class="percent">100%</span>
+            </a>
+        </li>
+      </ol>
+    </div>
+
+<div id="repository_description" class="repository-description">
+    <p>Advanced geometry operations in PHP
+      <span id="read_more" style="display:none">&mdash; <a href="#readme">Read more</a></span>
+    </p>
+</div>
+
+
+<div class="repository-homepage" id="repository_homepage">
+  <p><a href="http://geophp.net" rel="nofollow">http://geophp.net</a></p>
+</div>
+
+
+        </div>
+
+      <div class="edit-repo-desc-homepage" style="display:none">
+        <form accept-charset="UTF-8" action="/phayes/geoPHP/admin/update_meta" id="js-update-repo-meta-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="_method" type="hidden" value="put" /><input name="authenticity_token" type="hidden" value="aUERDFrLosyp4+n+CJXneyHWmrlvFB0FvH5dLBkqeXg=" /></div>
+          <p class="error" style="display:none">Sorry, but there was a problem saving your changes.</p>
+          <div>
+            <input type="text" id="repository-description-field" class="description-field" name="repo_description" value="Advanced geometry operations in PHP" placeholder="Add a description to this repository" />
+
+            <input type="text" id="repository-homepage-field" class="homepage-field" name="repo_homepage" value="http://geophp.net" placeholder="Add a website to this repository" />
+          </div>
+
+          <button type="submit" class="classy save-button">Save Changes</button>
+          <p class="cancel"><a href="#" class="danger">Cancel</a></p>
+</form>      </div>
+
+      
+<div class="url-box">
+  <ul class="native-clones">
+      <li><a href="/phayes/geoPHP/archive/master.zip" class="minibutton " icon_class="mini-icon-download" rel="nofollow" title="Download this repository as a zip file"><span class="mini-icon mini-icon-download"></span>ZIP</a>
+  </ul>
+
+  <ul class="clone-urls">
+    <li class="http_clone_url selected"><a href="https://github.com/phayes/geoPHP.git" class="js-git-protocol-selector" data-permission="Read-Only" data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">HTTP</a></li>
+<li class="public_clone_url"><a href="git@github.com:phayes/geoPHP.git" class="js-git-protocol-selector" data-permission="Read-Only" data-url="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone">SSH</a></li>
+<li class="public_clone_url"><a href="git://github.com/phayes/geoPHP.git" class="js-git-protocol-selector" data-permission="Read-Only" data-url="/users/set_protocol?protocol_selector=gitweb&amp;protocol_type=clone">Git Read-Only</a></li>
+  </ul>
+  <input type="text" spellcheck="false" class="url-field" value="https://github.com/phayes/geoPHP.git">
+  <span class="js-clippy mini-icon mini-icon-clippy url-box-clippy" data-clipboard-text="https://github.com/phayes/geoPHP.git" data-copied-hint="copied!" data-copy-hint="copy to clipboard"></span>
+  <p class="url-description"><span class="bold js-clone-url-permission">Read-Only</span> access</p>
+</div>
+
+        </div>
+
+<div class="tabnav">
+
+  <span class="tabnav-right">
+    <ul class="tabnav-tabs">
+      <li><a href="/phayes/geoPHP/tags" class="tabnav-tab" highlight="repo_tags">Tags <span class="counter ">10</span></a></li>
+      <li><a href="/phayes/geoPHP/downloads" class="tabnav-tab" highlight="repo_downloads">Downloads <span class="counter ">1</span></a></li>
+    </ul>
+    
+  </span>
+
+  <div class="tabnav-widget scope">
+
+
+    <div class="context-menu-container js-menu-container js-context-menu">
+      <a href="#"
+         class="minibutton bigger switcher js-menu-target js-commitish-button btn-branch repo-tree"
+         data-hotkey="w"
+         data-ref="master">
+         <span><em class="mini-icon mini-icon-branch"></em><i>branch:</i> master</span>
+      </a>
+
+      <div class="context-pane commitish-context js-menu-content">
+        <a href="javascript:;" class="close js-menu-close"><span class="mini-icon mini-icon-remove-close"></span></a>
+        <div class="context-title">Switch branches/tags</div>
+        <div class="context-body pane-selector commitish-selector js-navigation-container">
+          <div class="filterbar">
+            <input type="text" id="context-commitish-filter-field" class="js-navigation-enable js-filterable-field" placeholder="Filter branches/tags">
+            <ul class="tabs">
+              <li><a href="#" data-filter="branches" class="selected">Branches</a></li>
+                <li><a href="#" data-filter="tags">Tags</a></li>
+            </ul>
+          </div>
+
+          <div class="js-filter-tab js-filter-branches">
+            <div data-filterable-for="context-commitish-filter-field" data-filterable-type=substring>
+                <div class="commitish-item branch-commitish selector-item js-navigation-item js-navigation-target ">
+                  <span class="mini-icon mini-icon-confirm"></span>
+                  <h4>
+                      <a href="/phayes/geoPHP/tree/3d" class="js-navigation-open" data-name="3d" rel="nofollow">3d</a>
+                  </h4>
+                </div>
+                <div class="commitish-item branch-commitish selector-item js-navigation-item js-navigation-target selected">
+                  <span class="mini-icon mini-icon-confirm"></span>
+                  <h4>
+                      <a href="/phayes/geoPHP/tree/master" class="js-navigation-open" data-name="master" rel="nofollow">master</a>
+                  </h4>
+                </div>
+            </div>
+            <div class="no-results">Nothing to show</div>
+          </div>
+
+            <div class="js-filter-tab js-filter-tags " style="display:none">
+              <div data-filterable-for="context-commitish-filter-field" data-filterable-type=substring>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/1.1" class="js-navigation-open" data-name="1.1" rel="nofollow">1.1</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/1.0" class="js-navigation-open" data-name="1.0" rel="nofollow">1.0</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.9" class="js-navigation-open" data-name="0.9" rel="nofollow">0.9</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.8" class="js-navigation-open" data-name="0.8" rel="nofollow">0.8</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.7" class="js-navigation-open" data-name="0.7" rel="nofollow">0.7</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.6" class="js-navigation-open" data-name="0.6" rel="nofollow">0.6</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.5" class="js-navigation-open" data-name="0.5" rel="nofollow">0.5</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.4" class="js-navigation-open" data-name="0.4" rel="nofollow">0.4</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.3" class="js-navigation-open" data-name="0.3" rel="nofollow">0.3</a>
+                    </h4>
+                  </div>
+                  <div class="commitish-item tag-commitish selector-item js-navigation-item js-navigation-target ">
+                    <span class="mini-icon mini-icon-confirm"></span>
+                    <h4>
+                        <a href="/phayes/geoPHP/tree/0.2" class="js-navigation-open" data-name="0.2" rel="nofollow">0.2</a>
+                    </h4>
+                  </div>
+              </div>
+              <div class="no-results">Nothing to show</div>
+            </div>
+        </div>
+      </div><!-- /.commitish-context-context -->
+    </div>
+  </div> <!-- /.scope -->
+
+  <ul class="tabnav-tabs">
+    <li><a href="/phayes/geoPHP" class="selected tabnav-tab" highlight="repo_source">Files</a></li>
+    <li><a href="/phayes/geoPHP/commits/master" class="tabnav-tab" highlight="repo_commits">Commits</a></li>
+    <li><a href="/phayes/geoPHP/branches" class="tabnav-tab" highlight="repo_branches" rel="nofollow">Branches <span class="counter ">2</span></a></li>
+  </ul>
+
+</div>
+
+  
+  
+  
+
+
+            
+          </div>
+        </div><!-- /.repohead -->
+
+        <div id="js-repo-pjax-container" class="container context-loader-container" data-pjax-container>
+          
+
+
+    
+
+<!-- tree commit key: views10/v8/tree:v21:e35a27b43db3304d8b879dc8c66f401f -->
+
+  <div id="slider">
+
+
+        <p class="history-link js-history-link-replace" data-path="/">
+<a href="/phayes/geoPHP/commits/master">              <span class="mini-icon mini-icon-history tooltipped" title="Browse commits for this branch"></span>
+              256 commits
+</a>        </p>
+
+
+      <div class="breadcrumb" data-path="/">
+        <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/phayes/geoPHP" class="js-slider-breadcrumb" itemscope="url"><span itemprop="title">geoPHP</span></a></span></span> / 
+      </div>
+
+      <a href="/phayes/geoPHP/find/master" class="js-slide-to" data-hotkey="t" style="display:none">Show File Finder</a>
+
+        
+
+  <div class="frames">
+    <div class="frame frame-center" data-path="/" data-permalink-url="/phayes/geoPHP/tree/bc9a8b752229d7279e2a806a72457eea8f2d790b" data-title="phayes/geoPHP · GitHub" data-type="tree">
+
+      <div class="bubble tree-browser-wrapper">
+
+      <table class="tree-browser css-truncate" cellpadding="0" cellspacing="0">
+        <thead>
+            
+  <div class="commit commit-tease js-details-container">
+    <p class="commit-title ">
+        <a href="/phayes/geoPHP/commit/bc9a8b752229d7279e2a806a72457eea8f2d790b" class="message">elegantly dealing with empty arrays being passed to geometryReduce fu…</a>
+        <span class="hidden-text-expander inline"><a href="javascript:;" class="js-details-target">…</a></span>
+    </p>
+      <div class="commit-desc"><pre>…nction</pre></div>
+    <div class="commit-meta">
+      <a href="/phayes/geoPHP/commit/bc9a8b752229d7279e2a806a72457eea8f2d790b" class="sha-block">latest commit <span class="sha">bc9a8b7522</span></a>
+      <span class="js-clippy mini-icon mini-icon-clippy " data-clipboard-text="bc9a8b752229d7279e2a806a72457eea8f2d790b" data-copied-hint="copied!" data-copy-hint="Copy SHA"></span>
+
+      <div class="authorship">
+        <img class="gravatar" height="20" src="https://secure.gravatar.com/avatar/dbfe76613f45e29cc96c5a36a58b9cf0?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20" />
+        <span class="author-name"><a href="/phayes" rel="author">phayes</a></span>
+        authored <time class="js-relative-date updated" datetime="2012-11-24T11:38:18-08:00" title="2012-11-24 11:38:18">November 24, 2012</time>
+
+      </div>
+    </div>
+  </div>
+
+        </thead>
+
+        
+
+<tbody class="tree-entries "
+    data-url="/phayes/geoPHP/tree-commits/master">
+
+
+    <tr>
+      <td class="icon"><span class="mini-icon mini-icon-directory"></span></td>
+      <td class="content"><a href="/phayes/geoPHP/tree/master/doc" class="js-slide-to css-truncate-target" id="9a09b4dfda82e3e665e31092d1c3ec8d-46bb97752dc66d4ba80f75d854946a1d26dc3fdb" title="doc">doc</a></td>
+      <td class="age"><time class="js-relative-date" datetime="2012-03-03T08:26:35-08:00" title="2012-03-03 08:26:35">March 03, 2012</time></td>
+
+      <td class="message">
+          <a href="/phayes/geoPHP/commit/d0b600d089864b81e6bb46eb2a856291732ebbd1" class="message">Adding api documentation into repo</a> [<a href="/phayes" rel="author">phayes</a>]
+
+      </td>
+    </tr>
+    <tr>
+      <td class="icon"><span class="mini-icon mini-icon-directory"></span></td>
+      <td class="content"><a href="/phayes/geoPHP/tree/master/lib" class="js-slide-to css-truncate-target" id="e8acc63b1e238f3255c900eed37254b8-cab0f016aa390c1eb778810448fd6006556279cc" title="lib">lib</a></td>
+      <td class="age"><time class="js-relative-date" datetime="2012-11-04T17:11:33-08:00" title="2012-11-04 17:11:33">November 04, 2012</time></td>
+
+      <td class="message">
+          <a href="/phayes/geoPHP/commit/7b4e5fb61d6ad42193a98cc4d15855dce20dc792" class="message">Fixing SRID extraction from EWKB</a> [<a href="/phayes" rel="author">phayes</a>]
+
+      </td>
+    </tr>
+    <tr>
+      <td class="icon"><span class="mini-icon mini-icon-directory"></span></td>
+      <td class="content"><a href="/phayes/geoPHP/tree/master/tests" class="js-slide-to css-truncate-target" id="b61a6d542f9036550ba9c401c80f00ef-240cb7cad71a5ce0f73e72d551324fbab405c726" title="tests">tests</a></td>
+      <td class="age"><time class="js-relative-date" datetime="2012-09-03T20:10:33-07:00" title="2012-09-03 20:10:33">September 03, 2012</time></td>
+
+      <td class="message">
+          <a href="/phayes/geoPHP/commit/5c18d6e2e1dce86c7f98510e480b5dfe25da5b0a" class="message">Adding slightly invalid WKT that we should still try to parse and detect</a> [<a href="/phayes" rel="author">phayes</a>]
+
+      </td>
+    </tr>
+    <tr>
+      <td class="icon"><span class="mini-icon mini-icon-text-file"></span></td>
+      <td class="content"><a href="/phayes/geoPHP/blob/master/LICENSE" class="js-slide-to css-truncate-target" id="9879d6db96fd29134fc802214163b95a-9593990301059c6cdef2c9a80e77d539fd85847d" title="LICENSE">LICENSE</a></td>
+      <td class="age"><time class="js-relative-date" datetime="2012-03-03T02:58:01-08:00" title="2012-03-03 02:58:01">March 03, 2012</time></td>
+
+      <td class="message">
+          <a href="/phayes/geoPHP/commit/6d456bc69a94d4a7f34bb9f9c3dc879bf61fcb84" class="message">adding (or later) for GPL</a> [<a href="/phayes" rel="author">phayes</a>]
+
+      </td>
+    </tr>
+    <tr>
+      <td class="icon"><span class="mini-icon mini-icon-text-file"></span></td>
+      <td class="content"><a href="/phayes/geoPHP/blob/master/README.md" class="js-slide-to css-truncate-target" id="04c6e90faac2675aa89e2176d2eec7d8-6e657fca50c51d92d0dd70a065b2ba18f37ce9ac" title="README.md">README.md</a></td>
+      <td class="age"><time class="js-relative-date" datetime="2012-11-14T13:18:46-08:00" title="2012-11-14 13:18:46">November 14, 2012</time></td>
+
+      <td class="message">
+          <a href="/phayes/geoPHP/commit/3b34525561e059ea0709eaf5b4e467b578ff6ee1" class="message">Update README.md</a> [<a href="/phayes" rel="author">phayes</a>]
+
+      </td>
+    </tr>
+    <tr>
+      <td class="icon"><span class="mini-icon mini-icon-text-file"></span></td>
+      <td class="content"><a href="/phayes/geoPHP/blob/master/geoPHP.inc" class="js-slide-to css-truncate-target" id="3962fcbe01d2f45d2aa03aa5a91e8610-df6252218769f533e369e632554b4ef5c92a0e67" title="geoPHP.inc">geoPHP.inc</a></td>
+      <td class="age"><time class="js-relative-date" datetime="2012-11-24T11:38:18-08:00" title="2012-11-24 11:38:18">November 24, 2012</time></td>
+
+      <td class="message">
+          <a href="/phayes/geoPHP/commit/bc9a8b752229d7279e2a806a72457eea8f2d790b" class="message">elegantly dealing with empty arrays being passed to geometryReduce fu…</a> [<a href="/phayes" rel="author">phayes</a>]
+
+      </td>
+    </tr>
+</tbody>
+
+      </table>
+      </div>
+
+        <!-- readme cache key: tree-readme:1452875:6e657fca50c51d92d0dd70a065b2ba18f37ce9ac -->
+        <div id="readme" class="clearfix announce instapaper_body md" data-path="/">
+          <span class="name"><span class="mini-icon mini-icon-readme"></span> README.md</span><article class="markdown-body entry-content" itemprop="mainContentOfPage"><p>GeoPHP is a open-source native PHP library for doing geometry operations. It is written entirely in PHP and 
+can therefore run on shared hosts. It can read and write a wide variety of formats: WKT (including EWKT), WKB (including EWKB), GeoJSON, 
+KML, GPX, GeoRSS). It works with all Simple-Feature geometries (Point, LineString, Polygon, GeometryCollection etc.)
+and can be used to get centroids, bounding-boxes, area, and a wide variety of other useful information. </p>
+
+<p>geoPHP also helpfully wraps the GEOS php extension so that applications can get a transparent performance 
+increase when GEOS is installed on the server. When GEOS is installed, geoPHP also becomes
+fully compliant with the OpenGIS® Implementation Standard for Geographic information. With GEOS you get the 
+full-set of openGIS functions in PHP like Union, IsWithin, Touches etc. This means that applications
+get a useful "core-set" of geometry operations that work in all environments, and an "extended-set"of operations 
+for environments that have GEOS installed. </p>
+
+<p>See the 'getting started' section below for references and examples of everything that geoPHP can do.</p>
+
+<p>This project is currently looking for co-maintainers. If you think you can help out, please send me a 
+message. Forks are also welcome, please issue pull requests and I will merge them into the main branch.</p>
+
+<h2>
+<a name="getting-started" class="anchor" href="#getting-started"><span class="mini-icon mini-icon-link"></span></a>Getting Started</h2>
+
+<ul>
+<li>The lastest stable version can always be downloaded at: <a href="https://github.com/downloads/phayes/geoPHP/geoPHP.tar.gz">https://github.com/downloads/phayes/geoPHP/geoPHP.tar.gz</a>
+</li>
+<li>Read the API Reference at: <a href="https://github.com/phayes/geoPHP/wiki/API-Reference">https://github.com/phayes/geoPHP/wiki/API-Reference</a>
+</li>
+<li>Examples
+
+<ul>
+<li>Using geoPHP as a GIS format converter: <a href="http://github.com/phayes/geoPHP/wiki/Example-format-converter">http://github.com/phayes/geoPHP/wiki/Example-format-converter</a>
+</li>
+</ul>
+</li>
+<li>Other Interesting Links:
+
+<ul>
+<li>Learn about GEOS integration at: <a href="https://github.com/phayes/geoPHP/wiki/GEOS">https://github.com/phayes/geoPHP/wiki/GEOS</a>
+</li>
+</ul>
+</li>
+</ul><h2>
+<a name="example-usage" class="anchor" href="#example-usage"><span class="mini-icon mini-icon-link"></span></a>Example usage</h2>
+
+<div class="highlight"><pre><span class="o">&lt;?</span><span class="nx">php</span>
+<span class="k">include_once</span><span class="p">(</span><span class="s1">'geoPHP.inc'</span><span class="p">);</span>
+
+<span class="c1">// Polygon WKT example</span>
+<span class="nv">$polygon</span> <span class="o">=</span> <span class="nx">geoPHP</span><span class="o">::</span><span class="na">load</span><span class="p">(</span><span class="s1">'POLYGON((1 1,5 1,5 5,1 5,1 1),(2 2,2 3,3 3,3 2,2 2))'</span><span class="p">,</span><span class="s1">'wkt'</span><span class="p">);</span>
+<span class="nv">$area</span> <span class="o">=</span> <span class="nv">$polygon</span><span class="o">-&gt;</span><span class="na">getArea</span><span class="p">();</span>
+<span class="nv">$centroid</span> <span class="o">=</span> <span class="nv">$polygon</span><span class="o">-&gt;</span><span class="na">getCentroid</span><span class="p">();</span>
+<span class="nv">$centX</span> <span class="o">=</span> <span class="nv">$centroid</span><span class="o">-&gt;</span><span class="na">getX</span><span class="p">();</span>
+<span class="nv">$centY</span> <span class="o">=</span> <span class="nv">$centroid</span><span class="o">-&gt;</span><span class="na">getY</span><span class="p">();</span>
+
+<span class="k">print</span> <span class="s2">"This polygon has an area of "</span><span class="o">.</span><span class="nv">$area</span><span class="o">.</span><span class="s2">" and a centroid with X="</span><span class="o">.</span><span class="nv">$centX</span><span class="o">.</span><span class="s2">" and Y="</span><span class="o">.</span><span class="nv">$centY</span><span class="p">;</span>
+
+<span class="c1">// MultiPoint json example</span>
+<span class="k">print</span> <span class="s2">"&lt;br/&gt;"</span><span class="p">;</span>
+<span class="nv">$json</span> <span class="o">=</span> 
+<span class="s1">'{</span>
+<span class="s1">   "type": "MultiPoint",</span>
+<span class="s1">   "coordinates": [</span>
+<span class="s1">       [100.0, 0.0], [101.0, 1.0]</span>
+<span class="s1">   ]</span>
+<span class="s1">}'</span><span class="p">;</span>
+
+<span class="nv">$multipoint</span> <span class="o">=</span> <span class="nx">geoPHP</span><span class="o">::</span><span class="na">load</span><span class="p">(</span><span class="nv">$json</span><span class="p">,</span> <span class="s1">'json'</span><span class="p">);</span>
+<span class="nv">$multipoint_points</span> <span class="o">=</span> <span class="nv">$multipoint</span><span class="o">-&gt;</span><span class="na">getComponents</span><span class="p">();</span>
+<span class="nv">$first_wkt</span> <span class="o">=</span> <span class="nv">$multipoint_points</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">-&gt;</span><span class="na">out</span><span class="p">(</span><span class="s1">'wkt'</span><span class="p">);</span>
+
+<span class="k">print</span> <span class="s2">"This multipoint has "</span><span class="o">.</span><span class="nv">$multipoint</span><span class="o">-&gt;</span><span class="na">numGeometries</span><span class="p">()</span><span class="o">.</span><span class="s2">" points. The first point has a wkt representation of "</span><span class="o">.</span><span class="nv">$first_wkt</span><span class="p">;</span>
+</pre></div>
+
+<h1></h1>
+
+<h2>
+<a name="more-examples" class="anchor" href="#more-examples"><span class="mini-icon mini-icon-link"></span></a>More Examples</h2>
+
+<p>The Well Known Text (WKT) and Well Known Binary (WKB) support is ideal for integrating with MySQL's or PostGIS's spatial capability. 
+Once you have SELECTed your data with <code>'AsText('geo_field')'</code> or <code>'AsBinary('geo_field')'</code>, you can put it straight into 
+geoPHP (can be wkt or wkb, but must be the same as how you extracted it from your database):</p>
+
+<pre><code>$geom = geoPHP::load($dbRow,'wkt');
+</code></pre>
+
+<p>You can collect multiple geometries into one (note that you must use wkt for this):</p>
+
+<pre><code>$geom = geoPHP::load("GEOMETRYCOLLECTION(".$dbString1.",".$dbString2.")",'wkt');
+</code></pre>
+
+<p>Calling get components returns the sub-geometries within a geometry as an array.</p>
+
+<pre><code>$geom2 = geoPHP::load("GEOMETRYCOLLECTION(LINESTRING(1 1,5 1,5 5,1 5,1 1),LINESTRING(2 2,2 3,3 3,3 2,2 2))");
+$geomComponents = $geom2-&gt;getComponents();    //an array of the two linestring geometries
+$linestring1 = $geomComponents[0]-&gt;getComponents(); //an array of the first linestring's point geometries
+$linestring2 = $geomComponents[1]-&gt;getComponents();
+echo $linestring1[0]-&gt;x() . ", " . $linestring1[0]-&gt;y();    //outputs '1, 1'
+</code></pre>
+
+<p>An alternative is to use the <code>asArray()</code> method. Using the above geometry collection of two linestrings, </p>
+
+<pre><code>$geometryArray = $geom2-&gt;asArray();
+echo $geometryArray[0][0][0] . ", " . $geometryArray[0][0][1];    //outputs '1, 1'
+</code></pre>
+
+<p>Clearly, more complex analysis is possible.</p>
+
+<pre><code>echo $geom2-&gt;envelope()-&gt;area();
+</code></pre>
+
+<h2>
+<a name="working-with-postgis" class="anchor" href="#working-with-postgis"><span class="mini-icon mini-icon-link"></span></a>Working with PostGIS</h2>
+
+<p>geoPHP, through it's EWKB adapter, has good integration with postGIS. Here's an example of reading and writing postGIS geometries</p>
+
+<div class="highlight"><pre><span class="o">&lt;?</span><span class="nx">php</span>
+<span class="k">include_once</span><span class="p">(</span><span class="s1">'geoPHP.inc'</span><span class="p">);</span>
+<span class="nv">$host</span> <span class="o">=</span>     <span class="s1">'localhost'</span><span class="p">;</span>
+<span class="nv">$database</span> <span class="o">=</span> <span class="s1">'phayes'</span><span class="p">;</span>
+<span class="nv">$table</span> <span class="o">=</span>    <span class="s1">'test'</span><span class="p">;</span>
+<span class="nv">$column</span> <span class="o">=</span>   <span class="s1">'geom'</span><span class="p">;</span>
+<span class="nv">$user</span> <span class="o">=</span>     <span class="s1">'phayes'</span><span class="p">;</span>
+<span class="nv">$pass</span> <span class="o">=</span>     <span class="s1">'supersecret'</span><span class="p">;</span>
+
+<span class="nv">$connection</span> <span class="o">=</span> <span class="nb">pg_connect</span><span class="p">(</span><span class="s2">"host=</span><span class="si">$host</span><span class="s2"> dbname=</span><span class="si">$database</span><span class="s2"> user=</span><span class="si">$user</span><span class="s2"> password=</span><span class="si">$pass</span><span class="s2">"</span><span class="p">);</span>
+
+<span class="c1">// Working with PostGIS and Extended-WKB</span>
+<span class="c1">// ----------------------------</span>
+
+<span class="c1">// Using asBinary and GeomFromWKB in PostGIS</span>
+<span class="nv">$result</span> <span class="o">=</span> <span class="nb">pg_fetch_all</span><span class="p">(</span><span class="nx">pg_query</span><span class="p">(</span><span class="nv">$connection</span><span class="p">,</span> <span class="s2">"SELECT asBinary(</span><span class="si">$column</span><span class="s2">) as geom FROM </span><span class="si">$table</span><span class="s2">"</span><span class="p">));</span>
+<span class="k">foreach</span> <span class="p">(</span><span class="nv">$result</span> <span class="k">as</span> <span class="nv">$item</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nv">$wkb</span> <span class="o">=</span> <span class="nx">pg_unescape_bytea</span><span class="p">(</span><span class="nv">$item</span><span class="p">[</span><span class="s1">'geom'</span><span class="p">]);</span> <span class="c1">// Make sure to unescape the hex blob</span>
+  <span class="nv">$geom</span> <span class="o">=</span> <span class="nx">geoPHP</span><span class="o">::</span><span class="na">load</span><span class="p">(</span><span class="nv">$wkb</span><span class="p">,</span> <span class="s1">'ewkb'</span><span class="p">);</span> <span class="c1">// We now a full geoPHP Geometry object</span>
+
+  <span class="c1">// Let's insert it back into the database</span>
+  <span class="nv">$insert_string</span> <span class="o">=</span> <span class="nb">pg_escape_bytea</span><span class="p">(</span><span class="nv">$geom</span><span class="o">-&gt;</span><span class="na">out</span><span class="p">(</span><span class="s1">'ewkb'</span><span class="p">));</span>
+  <span class="nx">pg_query</span><span class="p">(</span><span class="nv">$connection</span><span class="p">,</span> <span class="s2">"INSERT INTO </span><span class="si">$table</span><span class="s2"> (</span><span class="si">$column</span><span class="s2">) values (GeomFromWKB('</span><span class="si">$insert_string</span><span class="s2">'))"</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="c1">// Using a direct SELECT and INSERTs in PostGIS without using wrapping functions</span>
+<span class="nv">$result</span> <span class="o">=</span> <span class="nb">pg_fetch_all</span><span class="p">(</span><span class="nx">pg_query</span><span class="p">(</span><span class="nv">$connection</span><span class="p">,</span> <span class="s2">"SELECT </span><span class="si">$column</span><span class="s2"> as geom FROM </span><span class="si">$table</span><span class="s2">"</span><span class="p">));</span>
+<span class="k">foreach</span> <span class="p">(</span><span class="nv">$result</span> <span class="k">as</span> <span class="nv">$item</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nv">$wkb</span> <span class="o">=</span> <span class="nb">pack</span><span class="p">(</span><span class="s1">'H*'</span><span class="p">,</span><span class="nv">$item</span><span class="p">[</span><span class="s1">'geom'</span><span class="p">]);</span>   <span class="c1">// Unpacking the hex blob</span>
+  <span class="nv">$geom</span> <span class="o">=</span> <span class="nx">geoPHP</span><span class="o">::</span><span class="na">load</span><span class="p">(</span><span class="nv">$wkb</span><span class="p">,</span> <span class="s1">'ewkb'</span><span class="p">);</span> <span class="c1">// We now have a geoPHP Geometry</span>
+
+  <span class="c1">// To insert directly into postGIS we need to unpack the WKB</span>
+  <span class="nv">$unpacked</span> <span class="o">=</span> <span class="nb">unpack</span><span class="p">(</span><span class="s1">'H*'</span><span class="p">,</span> <span class="nv">$geom</span><span class="o">-&gt;</span><span class="na">out</span><span class="p">(</span><span class="s1">'ewkb'</span><span class="p">));</span>
+  <span class="nv">$insert_string</span> <span class="o">=</span> <span class="nv">$unpacked</span><span class="p">[</span><span class="mi">1</span><span class="p">];</span>
+  <span class="nx">pg_query</span><span class="p">(</span><span class="nv">$connection</span><span class="p">,</span> <span class="s2">"INSERT INTO </span><span class="si">$table</span><span class="s2"> (</span><span class="si">$column</span><span class="s2">) values ('</span><span class="si">$insert_string</span><span class="s2">')"</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div>
+
+<h2>
+<a name="credit" class="anchor" href="#credit"><span class="mini-icon mini-icon-link"></span></a>Credit</h2>
+
+<p>Maintainer: Patrick Hayes</p>
+
+<p>Additional Contributors:</p>
+
+<ul>
+<li>GeoMemes Research (<a href="http://www.geomemes.com">http://www.geomemes.com</a>)</li>
+<li>HighWire Press (<a href="http://www.highwire.org">http://www.highwire.org</a>) and GeoScienceWorld (<a href="http://www.geoscienceworld.org">http://www.geoscienceworld.org</a>)</li>
+<li>Arnaud Renevier (gisconverter.php) <a href="https://github.com/arenevier/gisconverter.php">https://github.com/arenevier/gisconverter.php</a>
+</li>
+<li>Dave Tarc <a href="https://github.com/dtarc">https://github.com/dtarc</a>
+</li>
+<li>Elliott Hunston (documentation) <a href="https://github.com/ejh">https://github.com/ejh</a>
+</li>
+</ul><p>This library is open-source and dual-licensed under both the Modified BSD License and GPLv2. Either license may be used at your option.           </p></article>
+        </div>
+    </div>
+  </div>
+  <br style="clear:both;">
+
+
+<br style="clear:both;">
+
+<div class="frame frame-loading large-loading-area" style="display:none;">
+  <img alt="Octocat-spinner-128" height="64" src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-128.gif?1347543527" width="64" />
+</div>
+
+
+  </div>
+
+        </div>
+      </div>
+      <div class="context-overlay"></div>
+    </div>
+
+      <div id="footer-push"></div><!-- hack for sticky footer -->
+    </div><!-- end of wrapper - hack for sticky footer -->
+
+      <!-- footer -->
+      <div id="footer">
+  <div class="container clearfix">
+
+      <dl class="footer_nav">
+        <dt>GitHub</dt>
+        <dd><a href="https://github.com/about">About us</a></dd>
+        <dd><a href="https://github.com/blog">Blog</a></dd>
+        <dd><a href="https://github.com/contact">Contact &amp; support</a></dd>
+        <dd><a href="http://enterprise.github.com/">GitHub Enterprise</a></dd>
+        <dd><a href="http://status.github.com/">Site status</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>Applications</dt>
+        <dd><a href="http://mac.github.com/">GitHub for Mac</a></dd>
+        <dd><a href="http://windows.github.com/">GitHub for Windows</a></dd>
+        <dd><a href="http://eclipse.github.com/">GitHub for Eclipse</a></dd>
+        <dd><a href="http://mobile.github.com/">GitHub mobile apps</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>Services</dt>
+        <dd><a href="http://get.gaug.es/">Gauges: Web analytics</a></dd>
+        <dd><a href="http://speakerdeck.com">Speaker Deck: Presentations</a></dd>
+        <dd><a href="https://gist.github.com">Gist: Code snippets</a></dd>
+        <dd><a href="http://jobs.github.com/">Job board</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>Documentation</dt>
+        <dd><a href="http://help.github.com/">GitHub Help</a></dd>
+        <dd><a href="http://developer.github.com/">Developer API</a></dd>
+        <dd><a href="http://github.github.com/github-flavored-markdown/">GitHub Flavored Markdown</a></dd>
+        <dd><a href="http://pages.github.com/">GitHub Pages</a></dd>
+      </dl>
+
+      <dl class="footer_nav">
+        <dt>More</dt>
+        <dd><a href="http://training.github.com/">Training</a></dd>
+        <dd><a href="https://github.com/edu">Students &amp; teachers</a></dd>
+        <dd><a href="http://shop.github.com">The Shop</a></dd>
+        <dd><a href="http://octodex.github.com/">The Octodex</a></dd>
+      </dl>
+
+      <hr class="footer-divider">
+
+
+    <p class="right">&copy; 2012 <span title="0.07225s from fe16.rs.github.com">GitHub</span> Inc. All rights reserved.</p>
+    <a class="left" href="https://github.com/">
+      <span class="mega-icon mega-icon-invertocat"></span>
+    </a>
+    <ul id="legal">
+        <li><a href="https://github.com/site/terms">Terms of Service</a></li>
+        <li><a href="https://github.com/site/privacy">Privacy</a></li>
+        <li><a href="https://github.com/security">Security</a></li>
+    </ul>
+
+  </div><!-- /.container -->
+
+</div><!-- /.#footer -->
+
+
+    
+
+<div id="keyboard_shortcuts_pane" class="instapaper_ignore readability-extra" style="display:none">
+  <h2>Keyboard Shortcuts <small><a href="#" class="js-see-all-keyboard-shortcuts">(see all)</a></small></h2>
+
+  <div class="columns threecols">
+    <div class="column first">
+      <h3>Site wide shortcuts</h3>
+      <dl class="keyboard-mappings">
+        <dt>s</dt>
+        <dd>Focus command bar</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>?</dt>
+        <dd>Bring up this help dialog</dd>
+      </dl>
+    </div><!-- /.column.first -->
+
+    <div class="column middle" style='display:none'>
+      <h3>Commit list</h3>
+      <dl class="keyboard-mappings">
+        <dt>j</dt>
+        <dd>Move selection down</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>k</dt>
+        <dd>Move selection up</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>c <em>or</em> o <em>or</em> enter</dt>
+        <dd>Open commit</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>y</dt>
+        <dd>Expand URL to its canonical form</dd>
+      </dl>
+    </div><!-- /.column.first -->
+
+    <div class="column last js-hidden-pane" style='display:none'>
+      <h3>Pull request list</h3>
+      <dl class="keyboard-mappings">
+        <dt>j</dt>
+        <dd>Move selection down</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>k</dt>
+        <dd>Move selection up</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>o <em>or</em> enter</dt>
+        <dd>Open issue</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> enter</dt>
+        <dd>Submit comment</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> shift p</dt>
+        <dd>Preview comment</dd>
+      </dl>
+    </div><!-- /.columns.last -->
+
+  </div><!-- /.columns.equacols -->
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+
+    <h3>Issues</h3>
+
+    <div class="columns threecols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt>j</dt>
+          <dd>Move selection down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>k</dt>
+          <dd>Move selection up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>x</dt>
+          <dd>Toggle selection</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o <em>or</em> enter</dt>
+          <dd>Open issue</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> enter</dt>
+          <dd>Submit comment</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> shift p</dt>
+          <dd>Preview comment</dd>
+        </dl>
+      </div><!-- /.column.first -->
+      <div class="column last">
+        <dl class="keyboard-mappings">
+          <dt>c</dt>
+          <dd>Create issue</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>l</dt>
+          <dd>Create label</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>i</dt>
+          <dd>Back to inbox</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>u</dt>
+          <dd>Back to issues</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>/</dt>
+          <dd>Focus issues search</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+
+    <h3>Issues Dashboard</h3>
+
+    <div class="columns threecols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt>j</dt>
+          <dd>Move selection down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>k</dt>
+          <dd>Move selection up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o <em>or</em> enter</dt>
+          <dd>Open issue</dd>
+        </dl>
+      </div><!-- /.column.first -->
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+
+    <h3>Network Graph</h3>
+    <div class="columns equacols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">←</span> <em>or</em> h</dt>
+          <dd>Scroll left</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">→</span> <em>or</em> l</dt>
+          <dd>Scroll right</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">↑</span> <em>or</em> k</dt>
+          <dd>Scroll up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">↓</span> <em>or</em> j</dt>
+          <dd>Scroll down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>t</dt>
+          <dd>Toggle visibility of head labels</dd>
+        </dl>
+      </div><!-- /.column.first -->
+      <div class="column last">
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">←</span> <em>or</em> shift h</dt>
+          <dd>Scroll all the way left</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">→</span> <em>or</em> shift l</dt>
+          <dd>Scroll all the way right</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">↑</span> <em>or</em> shift k</dt>
+          <dd>Scroll all the way up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">↓</span> <em>or</em> shift j</dt>
+          <dd>Scroll all the way down</dd>
+        </dl>
+      </div><!-- /.column.last -->
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" >
+    <div class="rule"></div>
+    <div class="columns threecols">
+      <div class="column first js-hidden-pane" >
+        <h3>Source Code Browsing</h3>
+        <dl class="keyboard-mappings">
+          <dt>t</dt>
+          <dd>Activates the file finder</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>l</dt>
+          <dd>Jump to line</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>w</dt>
+          <dd>Switch branch/tag</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>y</dt>
+          <dd>Expand URL to its canonical form</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+    <div class="columns threecols">
+      <div class="column first">
+        <h3>Browsing Commits</h3>
+        <dl class="keyboard-mappings">
+          <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> enter</dt>
+          <dd>Submit comment</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>escape</dt>
+          <dd>Close form</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>p</dt>
+          <dd>Parent commit</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o</dt>
+          <dd>Other parent commit</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+    <h3>Notifications</h3>
+
+    <div class="columns threecols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt>j</dt>
+          <dd>Move selection down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>k</dt>
+          <dd>Move selection up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o <em>or</em> enter</dt>
+          <dd>Open notification</dd>
+        </dl>
+      </div><!-- /.column.first -->
+
+      <div class="column second">
+        <dl class="keyboard-mappings">
+          <dt>e <em>or</em> shift i <em>or</em> y</dt>
+          <dd>Mark as read</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift m</dt>
+          <dd>Mute thread</dd>
+        </dl>
+      </div><!-- /.column.first -->
+    </div>
+  </div>
+
+</div>
+
+    <div id="markdown-help" class="instapaper_ignore readability-extra">
+  <h2>Markdown Cheat Sheet</h2>
+
+  <div class="cheatsheet-content">
+
+  <div class="mod">
+    <div class="col">
+      <h3>Format Text</h3>
+      <p>Headers</p>
+      <pre>
+# This is an &lt;h1&gt; tag
+## This is an &lt;h2&gt; tag
+###### This is an &lt;h6&gt; tag</pre>
+     <p>Text styles</p>
+     <pre>
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+</pre>
+    </div>
+    <div class="col">
+      <h3>Lists</h3>
+      <p>Unordered</p>
+      <pre>
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b</pre>
+     <p>Ordered</p>
+     <pre>
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b</pre>
+    </div>
+    <div class="col">
+      <h3>Miscellaneous</h3>
+      <p>Images</p>
+      <pre>
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+</pre>
+     <p>Links</p>
+     <pre>
+http://github.com - automatic!
+[GitHub](http://github.com)</pre>
+<p>Blockquotes</p>
+     <pre>
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+</pre>
+    </div>
+  </div>
+  <div class="rule"></div>
+
+  <h3>Code Examples in Markdown</h3>
+  <div class="col">
+      <p>Syntax highlighting with <a href="http://github.github.com/github-flavored-markdown/" title="GitHub Flavored Markdown" target="_blank">GFM</a></p>
+      <pre>
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```</pre>
+    </div>
+    <div class="col">
+      <p>Or, indent your code 4 spaces</p>
+      <pre>
+Here is a Python code example
+without syntax highlighting:
+
+    def foo:
+      if not bar:
+        return true</pre>
+    </div>
+    <div class="col">
+      <p>Inline code for comments</p>
+      <pre>
+I think you should use an
+`&lt;addr&gt;` element here instead.</pre>
+    </div>
+  </div>
+
+  </div>
+</div>
+
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="mini-icon mini-icon-exclamation"></span>
+      Something went wrong with that request. Please try again.
+      <a href="#" class="mini-icon mini-icon-remove-close ajax-error-dismiss"></a>
+    </div>
+
+    
+    
+    <span id='server_response_time' data-time='0.07345' data-host='fe16'></span>
+    
+  </body>
+</html>
+
